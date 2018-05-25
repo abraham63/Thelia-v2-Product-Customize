@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>URL</key>
-	<string>https://github.com/abraham63/Thelia-v2-Product-Customize/blob/master/README.md</string>
-</dict>
-</plist>
+# Module de personnalisation de produit basic pour Thelia v2
+
+Ce module permet de personnaliser des produits sur Thelia version 2 via un champs texte que le client peut renseigner. Util pour les produits personnalisés au nom du client.
+
+## Pré-requis
+
+## Installation
+
+## Utilisation
+
+### Formulaire
+
+### Loop
+
