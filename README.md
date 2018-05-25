@@ -8,6 +8,10 @@ Thelia version 2.3.3 ou 2.3.4 - Module non testé sur les autres versions
 
 ## Installation
 
+* Copier le module dans ```<thelia_root>/local/modules/PersoProduit``` et assurer vous que le dossier soit bien nommé PersoProduit
+* Aller dans votre panneau d'administration des modules et activer le module
+* Ajouter votre formulaire et l'affichage des champs dans vos template
+
 ## Utilisation
 
 
