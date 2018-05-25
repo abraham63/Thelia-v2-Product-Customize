@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <fullnamespace>PersoProduit\PersoProduit</fullnamespace>
+    <descriptive locale="en_US">
+        <title>Product basic customization</title>
+        <description>This module add a field to enter text for product customization</description>
+    </descriptive>
+    <descriptive locale="fr_FR">
+        <title>Personnalisation simple des produits</title>
+        <description>Ce module ajoute un champs texte pour personnaliser vos produits</description>
+    </descriptive>
+    <version>1.0</version>
+    <author>
+        <name>Kevin</name>
+        <email>jj@jj.net</email>
+    </author>
+    <type>classic</type>
+    <thelia>2.3.3</thelia>
+    <stability>prod</stability>
+</module>

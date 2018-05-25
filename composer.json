@@ -1,0 +1,5 @@
+{
+    "name": "kevin/perso-produit",
+    "description": "Personnalisation des produits Thelia via un champs texte",
+    "require": {}
+}
