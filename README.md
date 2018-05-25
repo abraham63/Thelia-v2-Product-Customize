@@ -8,7 +8,15 @@ Ce module permet de personnaliser des produits sur Thelia version 2 via un champ
 
 ## Utilisation
 
+
 ### Formulaire
+
+Ce module ajoute un champs dans le formulaire d'ajout au panier à rajouter dans le template de la page produit
+```
+  {form_field field='champs_perso'}
+      <input id="{$name}" class="{$name}" type="text" name="{$name}" value="{$VALUE}" {$attr} >
+  {/form_field}
+```
 
 ### Loop
 
