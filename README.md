@@ -4,6 +4,8 @@ Ce module permet de personnaliser des produits sur Thelia version 2 via un champ
 
 ## Pré-requis
 
+Thelia version 2.3.3 ou 2.3.4 - Module non testé sur les autres versions
+
 ## Installation
 
 ## Utilisation
