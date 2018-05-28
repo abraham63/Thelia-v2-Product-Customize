@@ -15,7 +15,7 @@ Thelia version 2.3.3 ou 2.3.4 - Module non testé sur les autres versions
 
 ### Via compose
 * Aller à la racine de votre installation Thelia 2
-$ Lancer la commande composer ```require abraham63/thelia2-product-customize```
+$ Lancer la commande ```composer require abraham63/thelia2-product-customize```
 
 
 ## Utilisation
