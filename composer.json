@@ -1,5 +1,13 @@
 {
-    "name": "kevin/perso-produit",
-    "description": "Personnalisation des produits Thelia via un champs texte",
-    "require": {}
+    "name": "kevin/Thelia2-Product-Customize",
+    "type": "thelia-module",
+    "description": "Custom you product with text in Thelia 2",
+    "license": "MIT License",
+    
+    "require": {
+        "thelia/installer": "~1.1"
+    },
+    "extra": {
+        "installer-name": "PersoProduit"
+    }
 }
