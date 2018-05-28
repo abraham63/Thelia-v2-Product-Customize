@@ -2,8 +2,7 @@
     "name": "abraham63/thelia2-product-customize",
     "type": "thelia-module",
     "description": "Custom you product with text in Thelia 2",
-    "license": "MIT License",
-    
+    "license": "MIT",
     "require": {
         "thelia/installer": "~1.1"
     },
