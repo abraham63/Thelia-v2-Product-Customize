@@ -13,7 +13,7 @@ Thelia version 2.3.3 ou 2.3.4 - Module non testé sur les autres versions
 * Aller dans votre panneau d'administration des modules et activer le module
 * Ajouter votre formulaire et l'affichage des champs dans vos template
 
-### Via compose
+### Via composer
 * Aller à la racine de votre installation Thelia 2
 $ Lancer la commande ```composer require abraham63/thelia2-product-customize```
 
