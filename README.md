@@ -23,7 +23,7 @@ Thelia version 2.3.3 ou 2.3.4 - Module non testé sur les autres versions
 
 ### Formulaire
 
-Ce module ajoute un champs dans le formulaire d'ajout au panier à rajouter dans le template de la page produit
+Ce module ajoute un champs dans le formulaire d'ajout au panier à rajouter dans le template de la page produit (dans le form d'ajoute au panier)
 ```
   {form_field field='champs_perso'}
       <input id="{$name}" class="{$name}" type="text" name="{$name}" value="{$VALUE}" {$attr} >
